@@ -1,4 +1,3 @@
-<h2 align="center">ENG</h2>
 <h2 align="center">Discord (Optimization).bat</h2>
 The Discord (Optimization).bat script moves unnecessary features that are not required by most users to the .backup folder to restore them later in case of problems. This will improve the performance of Discord.
 
